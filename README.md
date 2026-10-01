@@ -1,24 +1,74 @@
-<div>
-  <a href="https://github.com/Will-Kira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Will-Kira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-KiraWill-Kira&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href=""_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wcamargohorn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/william-camargo-horn-56bb59166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![snake gif](https://github.com/seu_usuario_github/seu_usuario_github/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">Olá, eu sou William Camargo 👋</h1>
 
-</div>
+<p align="center">
+  <strong>Desenvolvedor em formação • Análise e Desenvolvimento de Sistemas • UpTask Digital</strong>
+</p>
+
+<p align="center">
+  Transformando ideias em aplicações web, automações e soluções digitais.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🚀 Criador da **UpTask Digital**
+- 💻 Foco em **desenvolvimento web, sistemas e automação**
+- 🧩 Interesse em transformar problemas reais em soluções digitais
+- 📚 Construindo projetos para evoluir continuamente como desenvolvedor
+- 🤝 Aberto a oportunidades, projetos e colaboração
+
+## 🛠️ Tecnologias
+
+<p>
+  <img alt="HTML5" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;
+  <img alt="Git" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="GitHub" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
+
+> Esta seção acompanha minha evolução: novas tecnologias entram aqui conforme passam a fazer parte dos meus projetos.
+
+## 🚀 Projetos em destaque
+
+### 🛍️ OtakuWear
+Projeto de e-commerce em desenvolvimento, criado para explorar uma experiência completa de loja virtual e evolução de conhecimentos em desenvolvimento web.
+
+**Objetivo:** transformar o projeto em um case completo de portfólio, com documentação técnica e demonstração das funcionalidades.
+
+[Ver repositório](https://github.com/Will-Kira/OtakuWear)
+
+### ⚙️ Projetos UpTask Digital
+Desenvolvimento de soluções digitais voltadas a sites, landing pages, sistemas web e automações.
+
+> Novos projetos serão adicionados a esta seção conforme forem documentados e publicados.
+
+## 📈 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Will-Kira&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub de William Camargo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Kira&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas por William Camargo" />
+</p>
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:wcamargohorn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/william-camargo-horn-56bb59166/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Construindo, aprendendo e documentando uma evolução de cada vez.</em>
+</p>
